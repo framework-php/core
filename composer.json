@@ -1,0 +1,17 @@
+{
+    "name": "guilhermehideki/core",
+    "description": "PHP Snippets",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guilherme Danno",
+            "email": "Guilherme.danno@gmail.com"
+        }
+    ],
+    "psr-4": {
+        "GuilhermeHideki\\Core": "src/"
+    },
+
+    "require": {}
+}
